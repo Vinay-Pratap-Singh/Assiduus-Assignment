@@ -1,7 +1,12 @@
-import { Heading } from "@chakra-ui/react";
+import Sidebar from "./components/Sidebar";
 
 const App = () => {
-  return <Heading textColor={"red.400"}>Setup complete</Heading>;
+  return (
+    <>
+      {/* left sidebar */}
+      <Sidebar />
+    </>
+  );
 };
 
 export default App;
