@@ -6,7 +6,7 @@ export const DashboardIcon: React.FC = () => (
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
     viewBox="0 0 24 24"
-    strokeWidth="1.5"
+    strokeWidth="2"
     stroke="currentColor"
     className="w-6 h-6"
   >
@@ -24,7 +24,7 @@ export const AccountsIcon: React.FC = () => (
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
     viewBox="0 0 24 24"
-    strokeWidth="1.5"
+    strokeWidth="2"
     stroke="currentColor"
     className="w-6 h-6"
   >
@@ -42,7 +42,7 @@ export const DollorIcon: React.FC = () => (
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
     viewBox="0 0 24 24"
-    strokeWidth="1.5"
+    strokeWidth="2"
     stroke="currentColor"
     className="w-6 h-6"
   >
@@ -60,7 +60,7 @@ export const ReportIcon: React.FC = () => (
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
     viewBox="0 0 24 24"
-    strokeWidth="1.5"
+    strokeWidth="2"
     stroke="currentColor"
     className="w-6 h-6"
   >
@@ -78,7 +78,7 @@ export const UserIcon: React.FC = () => (
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
     viewBox="0 0 24 24"
-    strokeWidth="1.5"
+    strokeWidth="2"
     stroke="currentColor"
     className="w-6 h-6"
   >
@@ -96,7 +96,7 @@ export const ContactIcon: React.FC = () => (
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
     viewBox="0 0 24 24"
-    strokeWidth="1.5"
+    strokeWidth="2"
     stroke="currentColor"
     className="w-6 h-6"
   >
@@ -114,7 +114,7 @@ export const SearchIcon: React.FC = () => (
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
     viewBox="0 0 24 24"
-    strokeWidth="1.5"
+    strokeWidth="2"
     stroke="currentColor"
     className="w-6 h-6"
   >
@@ -132,7 +132,7 @@ export const NotificationBellIcon: React.FC = () => (
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
     viewBox="0 0 24 24"
-    strokeWidth="1.5"
+    strokeWidth="2"
     stroke="currentColor"
     className="w-6 h-6"
   >
